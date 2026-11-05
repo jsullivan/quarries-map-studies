@@ -1,33 +1,33 @@
-# Five ways to print the Quarries
+# Five drawn maps of the Quarries
 
-Style studies of the same land. Not a new survey.
+Original drawings, not restyles of the survey sheet. North is up on every compass.
 
-## 1. The Walk
+## 1. The parchment
 
-Quiet sheet. The climb is drawn along the bottom.
+Ink, little trees, and a red path, in the manner of an old story map.
 
-![The Walk](01-the-walk.jpg)
+![The parchment](11-tolkien.jpg)
 
-## 2. Copperplate
+## 2. The canopy
 
-A dark wall map. The trail is the only bright color.
+The woods drawn tree by tree, with the creek, the ponds, and the river.
 
-![Copperplate](02-copperplate.jpg)
+![The canopy](12-canopy.jpg)
 
-## 3. Between the waters
+## 3. The cut
 
-The creek and the river are the subject.
+A two-ink linocut. The trail and the Rockfish are the only red.
 
-![Between the waters](03-between-the-waters.jpg)
+![The cut](13-linocut.jpg)
 
-## 4. Field card
+## 4. The estate sheet
 
-Thick trail, solid water, a large scale in feet.
+A vellum plat painted with a stand of trees for the forest.
 
-![Field card](04-field-card.jpg)
+![The estate sheet](14-estate.jpg)
 
-## 5. The plat
+## 5. The field sketch
 
-Hairline ink, drawn like a survey.
+Loose ink and watercolor, as if drawn from the ridge.
 
-![The plat](05-the-plat.jpg)
+![The field sketch](15-watercolor.jpg)
